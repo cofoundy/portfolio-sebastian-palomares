@@ -1,6 +1,0 @@
-<svg width="400" height="240" viewBox="0 0 400 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="240" fill="url(#grad1)"/>
-  <text x="200" y="110" text-anchor="middle" fill="white" font-family="system-ui" font-size="24" font-weight="bold">Moving Pack</text>
-  <text x="200" y="145" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="system-ui" font-size="14">Productor BTL</text>
-  <defs><linearGradient id="grad1" x1="0" y1="0" x2="400" y2="240"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#6D28D9"/></linearGradient></defs>
-</svg>
